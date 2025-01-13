@@ -4,9 +4,9 @@
 This project implements a machine learning-based solution to detect spam messages in SMS texts. It provides a trained model and a web interface for testing messages.
 
 ## Features
-Detect whether an SMS message is spam or not.
-Pre-trained Naive Bayes model for classification.
-Streamlit web application for user interaction.
+- Detect whether an SMS message is spam or not.
+- Pre-trained Naive Bayes model for classification.
+- Streamlit web application for user interaction.
 
 ## Files in Repository
 - [SMS_SPAM_DETECTION.ipynb]: Jupyter Notebook for model training and evaluation.
